@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://tnv7i7wngqui"]
+
+[node name="SpotLight3D" type="SpotLight3D"]
+transform = Transform3D(1, -2.23587e-09, -5.722e-11, 2.23587e-09, 0.998691, 0.0511507, -5.722e-11, -0.0511507, 0.998691, -2.0753e-08, 0, -0.474773)
+shadow_enabled = true
+spot_range = 20.0
+spot_angle = 15.0
